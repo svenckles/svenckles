@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**svenckles/svenckles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a founding engineer with a focus on serverless technologies and currently contributing to projects at Serverless Studio.
 
-Here are some ideas to get you started:
+Sauron is an open sourced AWS Lambda real-time error reporting tool.
+* [👁️ Sauron](https://github.com/serverless-studio/sauron)
+* [👁️ Sauron SDK](https://github.com/serverless-studio/sauron-sdk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tradar is a SaaS product, delivering monthly CSV files containing all the newly incorporated UK companies.
+* [📡 Tradar](https://tradar.serverless.studio)
+
+## Let's Connect!
+
+* 🌐 [Serverless Studio](https://serverless.studio)
+* 👔 [LinkedIn](https://www.linkedin.com/in/rdragoi)
+* 📧 [razvandragoi@outlook.com](mailto:razvandragoi@outlook.com)
